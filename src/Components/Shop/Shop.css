@@ -9,3 +9,8 @@
     gap: 60px;
     margin: 20px;
 }
+
+.card-container {
+    background-color: orange;
+    height: 100vh;
+}
